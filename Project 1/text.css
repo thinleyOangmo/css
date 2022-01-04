@@ -1,0 +1,85 @@
+ *{
+     margin:0px;
+     padding: 0px;
+}
+ body{
+     text-align: center;
+}
+ .wrapper{
+     width: 1170px;
+     margin: 0 auto;
+}
+ header{
+     height:130px;
+     background: rgb(21, 107, 133);
+     width: 100%;
+     z-index: 12;
+     position: fixed;
+     font-size: 15px;
+}
+ .logo{
+     width: 30%;
+     float: left;
+     line-height: 50px;
+}
+ .logo a{
+     text-decoration: none;
+     font-size:30px;
+     font-family: bognoodletitling;
+     color:#92af96;
+     letter-spacing:5px;
+     margin-top: 15px;
+}
+ nav{
+     float: right;
+     line-height:100px
+}
+ nav a{
+     text-decoration: none;
+     font-family: bognoodletitling;
+     letter-spacing:4px;
+     font-size: 15px;
+     margin: 0 10px ;
+     color: #ffffff;
+
+}
+ .banner-area{
+     width: 100%;
+     height:500px;
+     position: fixed;
+     margin-top: 100px;
+     background-image: url('https://www.commonapp.org/static/b318a1780f2f3e609764e602cdc677a0/amherst-college_19.png');
+     background-size:cover;
+    
+}
+
+ .banner-area h2{
+     padding-top: 8%;
+     font-size: 50px;
+     font-family: poppins;
+     text-transform: uppercase;
+     color:darkorange;
+}
+ .content-area{
+     width: 100%;
+     position:relative;
+     top:450px;
+     background:#ddd;
+     height: 1500px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+body{
+	background-image:linear-gradient(45deg,rgba(200,13,24,0.2),rgba(90,50,190,0.2),rgba(70,80,30,0.2));
+}
+#de{
+	border: 2px solid black;
+	height: 140px;
+	width:1250px ;
+	background: black;
+	position:fixed;
+	margin-top:-10px;
+}
+#a{
+	color: white;
+}
+#name{
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+#recipes{
+	 color: red;
+}
+#if1{
+	width: 560px;
+	height: 315px;
+}
+#if2{
+	width: 560px;
+	height: 315px;
+}
+#if3{
+	margin-right: 100px;
+}
+#df{
+	float:right;
+	margin-top: -655px;
+}
+#ifa{
+	width: 560px;
+	height: 315px;
+}
+#if4{
+	margin-right: 100px;
+}
+#df1{
+	float:right;
+	margin-top: -335px;
+}
+#ifb{
+	width: 560px;
+	 height: 315px; 
+}
+#ingredient{
+	color: red;
+}
+#order{
+	color: darkblue;
+}
+#ingre{
+	color: red;
+}
+#order2{
+	color: darkblue;
+}

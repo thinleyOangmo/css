@@ -1,0 +1,23 @@
+body{
+background:linear-gradient(300deg,rgba(230,104,100,0.7),rgba(69,80,20,0.4));
+}
+
+div{
+	border:1px solid black;
+	position: static;
+	background-color:lightblue;
+	margin: -10px;
+	position: fixed;
+	width: 1270px;
+	
+}
+#line{
+	color: black;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+img{
+	width: 1250px;
+}
